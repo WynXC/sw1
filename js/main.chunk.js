@@ -552,7 +552,7 @@
                                     renderer: L
                                 })
                             }) : Object(K.jsx)(T, {
-                                children: "CONNECT WALLET"
+                                children: "CONNECT"
                             })
                         }), Object(K.jsx)(y.a, {
                             open: q.open,
